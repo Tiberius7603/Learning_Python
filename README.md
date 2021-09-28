@@ -4,8 +4,8 @@
 
 ## Index
 ### Codeup
-기본기를 다지기 위해 기초 100제를 풀고 그 중 비교적 정답률이 낮은 것들 위주로 업로드.
-기초 100제 이후에는 추가로 진행할 
+기본기를 다지기 위해 기초 100제를 풀고 그 중 비교적 정답률이 낮은 것들 위주로 업로드.  
+현재는 그 이상으로 알고리즘 문제를 진행할 예정은 없으나 필요하다 생각이 들면 할 예정.
 
 ### Wikidocs
 딥 러닝을 이용한 자연어 처리 wikidocs를 보며 실습한 것
@@ -15,5 +15,5 @@
 ## Reference of Problems
 
 https://codeup.kr/ Python 기초 100제  
-https://leetcode.com/
-
+https://leetcode.com/  
+https://wikidocs.net/book/2155
